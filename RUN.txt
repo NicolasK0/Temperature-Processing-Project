@@ -1,0 +1,204 @@
+Sample Output 1:
+sensors by room number [('4201', 'Foundations Lab', 1), ('4204', 'CS Lab', 2), ('4205', 'Tilted Room', 4), ('4213', 'STEM Center', 0), ('4218', 'Workshop Room', 3), ('Out', 'Outside', 10)]
+active_list is [0, 1, 2, 3, 4, 10]
+
+STEM Center Temperature Project
+Nick K
+Main Menu
+---------
+1 - Process a new data file
+2 - Choose units
+3 - Edit room filter
+4 - Show summary statistics
+5 - Show temperature by date and time
+6 - Show histogram of temperatures
+7 - Quit
+None
+Enter [1-7] for the menu option you would like to select:
+1
+Please enter the path and file name of the new dataset: resources/Temperatures_0806.csv
+Loaded 11724 samples.
+Please enter a name for the dataset (3-20 characters): file
+Main Menu
+---------
+1 - Process a new data file
+2 - Choose units
+3 - Edit room filter
+4 - Show summary statistics
+5 - Show temperature by date and time
+6 - Show histogram of temperatures
+7 - Quit
+20.45544117647059
+Enter [1-7] for the menu option you would like to select:
+4
+Summary statistics for file
+Minimum Temperature: 0.00 C
+Maximum Temperature: 10.00 C
+Average Temperature: 3.35 C
+Main Menu
+---------
+1 - Process a new data file
+2 - Choose units
+3 - Edit room filter
+4 - Show summary statistics
+5 - Show temperature by date and time
+6 - Show histogram of temperatures
+7 - Quit
+20.45544117647059
+Enter [1-7] for the menu option you would like to select:
+2
+
+Choose the unit you would like to display temperatures in:
+0: Celsius
+1: Fahrenheit
+2: Kelvin
+Enter the number corresponding to your choice: 1
+Current units in Fahrenheit
+Main Menu
+---------
+1 - Process a new data file
+2 - Choose units
+3 - Edit room filter
+4 - Show summary statistics
+5 - Show temperature by date and time
+6 - Show histogram of temperatures
+7 - Quit
+20.45544117647059
+Enter [1-7] for the menu option you would like to select:
+4
+Summary statistics for file
+Minimum Temperature: 32.00 F
+Maximum Temperature: 50.00 F
+Average Temperature: 38.03 F
+Main Menu
+---------
+1 - Process a new data file
+2 - Choose units
+3 - Edit room filter
+4 - Show summary statistics
+5 - Show temperature by date and time
+6 - Show histogram of temperatures
+7 - Quit
+20.45544117647059
+Enter [1-7] for the menu option you would like to select:
+7
+Thank you for using the STEM Center Temperature Project
+
+Process finished with exit code 0
+
+
+
+Sample Output 2:
+sensors by room number [('4201', 'Foundations Lab', 1), ('4204', 'CS Lab', 2), ('4205', 'Tilted Room', 4), ('4213', 'STEM Center', 0), ('4218', 'Workshop Room', 3), ('Out', 'Outside', 10)]
+active_list is [0, 1, 2, 3, 4, 10]
+
+STEM Center Temperature Project
+Nick K
+Main Menu
+---------
+1 - Process a new data file
+2 - Choose units
+3 - Edit room filter
+4 - Show summary statistics
+5 - Show temperature by date and time
+6 - Show histogram of temperatures
+7 - Quit
+None
+Enter [1-7] for the menu option you would like to select:
+1
+Please enter the path and file name of the new dataset: file
+Unable to load the file.
+Main Menu
+---------
+1 - Process a new data file
+2 - Choose units
+3 - Edit room filter
+4 - Show summary statistics
+5 - Show temperature by date and time
+6 - Show histogram of temperatures
+7 - Quit
+None
+Enter [1-7] for the menu option you would like to select:
+4
+No summary statistics available.
+Main Menu
+---------
+1 - Process a new data file
+2 - Choose units
+3 - Edit room filter
+4 - Show summary statistics
+5 - Show temperature by date and time
+6 - Show histogram of temperatures
+7 - Quit
+None
+Enter [1-7] for the menu option you would like to select:
+1
+Please enter the path and file name of the new dataset: resources/Temperatures_0806.csv
+Loaded 11724 samples.
+Please enter a name for the dataset (3-20 characters): file
+Main Menu
+---------
+1 - Process a new data file
+2 - Choose units
+3 - Edit room filter
+4 - Show summary statistics
+5 - Show temperature by date and time
+6 - Show histogram of temperatures
+7 - Quit
+20.45544117647059
+Enter [1-7] for the menu option you would like to select:
+4
+Summary statistics for file
+Minimum Temperature: 0.00 C
+Maximum Temperature: 10.00 C
+Average Temperature: 3.35 C
+Main Menu
+---------
+1 - Process a new data file
+2 - Choose units
+3 - Edit room filter
+4 - Show summary statistics
+5 - Show temperature by date and time
+6 - Show histogram of temperatures
+7 - Quit
+20.45544117647059
+Enter [1-7] for the menu option you would like to select:
+2
+
+Choose the unit you would like to display temperatures in:
+0: Celsius
+1: Fahrenheit
+2: Kelvin
+Enter the number corresponding to your choice: 2
+Current units in Kelvin
+Main Menu
+---------
+1 - Process a new data file
+2 - Choose units
+3 - Edit room filter
+4 - Show summary statistics
+5 - Show temperature by date and time
+6 - Show histogram of temperatures
+7 - Quit
+20.45544117647059
+Enter [1-7] for the menu option you would like to select:
+4
+Summary statistics for file
+Minimum Temperature: 273.15 K
+Maximum Temperature: 283.15 K
+Average Temperature: 276.50 K
+Main Menu
+---------
+1 - Process a new data file
+2 - Choose units
+3 - Edit room filter
+4 - Show summary statistics
+5 - Show temperature by date and time
+6 - Show histogram of temperatures
+7 - Quit
+20.45544117647059
+Enter [1-7] for the menu option you would like to select:
+7
+Thank you for using the STEM Center Temperature Project
+
+Process finished with exit code 0
