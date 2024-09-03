@@ -1,5 +1,5 @@
-# Temperature_Processing_Project
-Temperature_project that allow user to perform several functions with a data set of temperatures
+# Temperature Processing Project
+Temperature project that allow user to perform several functions with a data set of temperatures
 
 This project displays a menu dashboard, where a user can repeatedly select one of the seven menu options.
 It also creates an array of sensors with their components, as well as an active sensor array. 
