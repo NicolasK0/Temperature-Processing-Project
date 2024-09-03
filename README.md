@@ -1,4 +1,4 @@
-# Temperature_Project
+# Temperature_Processing_Project
 Temperature_project that allow user to perform several functions with a data set of temperatures
 
 This project displays a menu dashboard, where a user can repeatedly select one of the seven menu options.
